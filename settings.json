@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "themongolsmp.aternos.me",
-    "port": 33929,
-    "version": "",
+    "ip": "themongolsmp1.aternos.me",
+    "port": 50503,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "YourAuthPassword"
     },
     "anti-afk": {
