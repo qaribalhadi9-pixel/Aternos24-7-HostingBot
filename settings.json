@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "themongolsmp1.aternos.me",
+    "ip": "themongolsmp112.aternos.me",
     "port": 50503,
-    "version": "26.3",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
