@@ -1,4 +1,4 @@
-{
+  {
   "name": "AFK Bot",
   "bot-account": {
     "username": "IAM24/7NOW",
@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "themongol.aternos.me",
+    "ip": "themongolsmp.aternos.me",
     "port": 33929,
     "version": "",
     "try-creative": false
