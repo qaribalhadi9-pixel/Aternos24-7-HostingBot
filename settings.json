@@ -8,7 +8,7 @@
   "server": {
     "ip": "themongolsmp112.aternos.me",
     "port": 50503,
-    "version": "1.21.1",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "YourAuthPassword"
     },
     "anti-afk": {
